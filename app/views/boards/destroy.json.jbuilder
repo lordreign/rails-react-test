@@ -1,0 +1,1 @@
+json.result @is_destroyed ? 'success' : 'false'
